@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Control Center</string>
+    <string name="turn_on_control_centrer">Turn On Control Center</string>
+    <string name="size">Size</string>
+    <string name="position">Position</string>
+    <string name="right">Right</string>
+    <string name="bottom">Bottom</string>
+    <string name="left">Left</string>
+</resources>

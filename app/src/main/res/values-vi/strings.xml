@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Control Center</string>
+    <string name="turn_on_control_centrer">Bật Control Center</string>
+    <string name="size">Kích Thước</string>
+    <string name="position">Vị Trí</string>
+    <string name="right">Bên phải</string>
+    <string name="bottom">Bên dưới</string>
+    <string name="left">Bên trái</string>
+</resources>
